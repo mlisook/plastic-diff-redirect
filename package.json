@@ -1,6 +1,6 @@
 {
   "name": "plastic-diff-redirect",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Client side build selection like prpl-server-node, but on client",
   "keywords": [
     "polymer",
