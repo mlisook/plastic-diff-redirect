@@ -2,6 +2,13 @@
   "name": "plastic-diff-redirect",
   "version": "1.0.3",
   "description": "Client side build selection like prpl-server-node, but on client",
+  "keywords": [
+    "polymer",
+    "static",
+    "prpl server",
+    "redirect",
+    "browser-capabilities"
+  ],
   "main": "index.js",
   "repository": "https://github.com/mlisook/plastic-diff-redirect",
   "author": "Murray Lisook",
